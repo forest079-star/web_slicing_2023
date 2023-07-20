@@ -150,5 +150,5 @@ a:hover{
 }
 
 .border-b-primary{
-	border-bottom: 1px solid var(--prmary-color);
+	border-bottom: 3px solid var(--prmary-color);
 }
