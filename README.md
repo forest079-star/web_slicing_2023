@@ -2,3 +2,4 @@
 
 ### 連結
 - week1 - [https://forest079-star.github.io/web_slicing_2023/week1/](https://forest079-star.github.io/web_slicing_2023/week1/)
+- week2 - [https://forest079-star.github.io/web_slicing_2023/week2/](https://forest079-star.github.io/web_slicing_2023/week2/)
